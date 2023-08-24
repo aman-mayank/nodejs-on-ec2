@@ -1,3 +1,4 @@
+#!/bin/bash
 set -x
 npm start &
 sleep 1
